@@ -1,6 +1,7 @@
 /***************************************************************************
 * File Name: WHT20.h
 * Processor/Platform: Arduino nano (tested)
+                      ESP32 wroom (tested)
 * Development Environment: Arduino 1.8.9
 *
 * **************************************************************************/
