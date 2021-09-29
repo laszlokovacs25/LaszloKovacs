@@ -1,1 +1,5 @@
 WHT20   KEYWORD1
+Winsen   KEYWORD2
+Temperature    KEYWORD3
+Humidity   KEYWORD4
+sensor   KEYWORD5
